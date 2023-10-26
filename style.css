@@ -1,0 +1,79 @@
+#main_box
+{
+ height: 1000px;
+ width: 1775px;
+ color: aqua;
+ border: 2px solid black;
+ background-color: rgb(126, 232, 198);
+ display: flex;
+}
+
+#main_box> .box_1
+{
+    height: 100px;
+    width: 100px;
+    color: black;
+    border: 2px solid black;
+    background-color: rgb(143, 120, 89);
+    margin-top: 400px;
+    align-items: center;
+    margin-left: 20px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#main_box> .box_2
+{
+    height: 100px;
+    width: 100px;
+    color: black;
+    border: 2px solid black;
+    background-color: rgb(143, 120, 89);
+    align-items: center;
+    margin-top: 400px;
+    margin-left: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#main_box> .box_3
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 400px;
+    color: black;
+    border: 2px solid black;
+    background-color: rgb(143, 120, 89);
+    align-items: center;
+    margin-left: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#main_box> .box_4
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 400px;
+    color: black;
+    border: 2px solid black;
+    background-color: rgb(143, 120, 89);
+    align-items: center;
+    margin-left: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#main_box> .box_5
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 400px;
+    color: black;
+    border: 2px solid black;
+    background-color: rgb(143, 120, 89);
+    align-items: center;
+    margin-left: 100px;
+    text-align: center;
+    line-height: 100px;
+}
